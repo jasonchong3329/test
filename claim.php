@@ -6,7 +6,7 @@
     include_once 'class/SavehandlerApi.php';
     include_once 'class/GeneralFunction.php';
     include_once 'language.php';
-    $o = new Claim();
+    $o = new Claim();sdfsdfsdfsf
     $s = new SavehandlerApi();
     $gf = new GeneralFunction();
     $o->save = $s;
